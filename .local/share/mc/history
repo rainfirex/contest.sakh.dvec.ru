@@ -1,0 +1,26 @@
+[input-def]
+0=*
+
+[input2]
+0=/var/www/contest.sakh.dvec.ru/www
+1=/var/www/contest.sakh.dvec.ru/www/app
+
+[cmdline]
+0=
+
+[Dir Hist New Right Panel]
+0=/var/www/contest.sakh.dvec.ru/www/app
+1=/var/www/contest.sakh.dvec.ru
+2=/var/www/contest.sakh.dvec.ru/www
+3=/etc/httpd/conf.d
+
+[Dir Hist New Left Panel]
+0=/var/www/contest.sakh.dvec.ru/www/.subversion
+1=/var/www/contest.sakh.dvec.ru/www/.pki
+2=/var/www/contest.sakh.dvec.ru/www/.local
+3=/var/www/contest.sakh.dvec.ru/www/.config
+4=/var/www/contest.sakh.dvec.ru/www/.cache
+5=/var/www/contest.sakh.dvec.ru/www/app/app
+6=/var/www/contest.sakh.dvec.ru/www/app
+7=/var/www/contest.sakh.dvec.ru/www
+8=/etc/httpd/conf.d
